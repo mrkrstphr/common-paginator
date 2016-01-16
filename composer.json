@@ -1,0 +1,19 @@
+{
+  "name": "mrkrstphr/common-paginator",
+  "description": "A common paginator interface for PHP",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kristopher Wilson",
+      "email": "kristopherwilson@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mrkrstphr\\CommonPaginator\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">= 7.0, <= 8.0"
+  }
+}
